@@ -1,6 +1,6 @@
-# Ainijiang02.github.io
-mio prima github file
-hello we are started working and i am done!
+# sito portfolio di Ainijiang
 
-second modifica
-i learned github git today. very happy 
+questo e un sito dove reccoglo tutti i miei progetti di presentazione e anche una mia presentazione 
+
+### le technologia che ho usato sono:
+html
